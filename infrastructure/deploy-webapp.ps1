@@ -1,5 +1,5 @@
 $studentprefix = "795256"
-$githubAccount = "Your github account name here"
+$githubAccount = "jainesh0220"
 $resourcegroupName = "fabmedical-rg-" + $studentprefix
 $webappName = "fabmedical-web-" + $studentprefix
 
